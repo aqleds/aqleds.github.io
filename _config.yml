@@ -1,0 +1,10 @@
+# Site settings
+title: AqLeds
+email: miguelangel@ajo.es
+description: "OpenSource LED control for aquariums, plants, animals, home."
+baseurl: ""
+url: "http://aqleds.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
