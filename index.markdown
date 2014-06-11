@@ -23,6 +23,10 @@ the GPL license.
 [pc]:            http://github.com/aqleds/aqleds
 
 
+## Video
+Accelerated 'lighting' playback of a 12h cycle (night, sunrise, day, sunset, night...).
+
+<iframe src="//player.vimeo.com/video/70742978" width="800" height="469" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ## Getting started
 
